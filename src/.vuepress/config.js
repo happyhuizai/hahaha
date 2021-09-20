@@ -507,15 +507,6 @@ module.exports = {
       '/examples/': sidebar.examples
     },
     smoothScroll: false,
-    algolia: {
-      indexName: 'vuejs_cn3',
-      apiKey: '773de665ca11d74cede4e35ecff46931'
-    },
-    carbonAds: {
-      carbon: 'CEBDT27Y',
-      custom: 'CKYD62QM',
-      placement: 'vuejsorg'
-    },
     topBanner: false
   },
   plugins: [
